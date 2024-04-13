@@ -5,12 +5,17 @@ layout: default
 # Table of Content
 
 - 1. Professional Self-Assessment
-- 2. Code Review
-- 3. Artifact 1
+- 2. Artifact 1
   - Enhancement 1: 
+    - Code Review
+    - Narrative
   - Enhancement 2:
-- 4. Artifact 1
+    - Code Review
+    - Narrative
+- 3. Artifact 1
   - Enhancement 3:
+    - Code Review
+    - Narrative
 
 # 1. Professional Self-Assessment
 
