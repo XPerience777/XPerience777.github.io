@@ -38,12 +38,13 @@ When I originally submitted the code it had a very simple scene that was simply 
 
 ### Source Code
 Currently updated version on "Main" branch while original version in on "original 1.0 Version" branch.
+
 **Repository Link:** https://github.com/XPerience777/Final_Cole_Doty
 
 ### Enhancement 1: Software Design and Engineering
 ##### Code Review
 
-https://youtu.be/iWtP-i88p9k
+**Video Link:** https://youtu.be/iWtP-i88p9k
 
 ##### Narrative
 
@@ -62,7 +63,7 @@ What I didn’t realize was the sheer number of individual meshes I would have t
 ### Enhancement 2: Algorithms and Data Structures
 ##### Code Review
 
-https://youtu.be/xtOr_FlUygw
+**Video Link:** https://youtu.be/xtOr_FlUygw
 
 ##### Narrative
 
@@ -83,12 +84,13 @@ The original app only had a single simple database that locally stored data for 
 
 ### Source Code
 Currently updated version on "Main" branch while original version in on "original 1.0 Version" branch.
+
 **Repository Link:** https://github.com/XPerience777/CS360_Weight_Tracker_App
 
 ### Enhancement 3: Databases
 ##### Code Review
 
-https://youtu.be/mSosvgSlPsM
+**Video Link:** https://youtu.be/mSosvgSlPsM
 
 ##### Narrative
 
