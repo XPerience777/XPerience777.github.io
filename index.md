@@ -5,15 +5,17 @@ layout: default
 # Table of Content
 
 - 1. Professional Self-Assessment
-- 2. Artifact 1
-  - Enhancement 1: 
+- 2. Artifact 1: Final_Cole_Doty 
+  - Source Files
+  - Enhancement 1: Software Design and Engineering
     - Code Review
     - Narrative
-  - Enhancement 2:
+  - Enhancement 2: Algorithms and Data Structures
     - Code Review
     - Narrative
-- 3. Artifact 1
-  - Enhancement 3:
+- 3. Artifact 2: CS360_Weight_Tracker_App
+  - Source Files
+  - Enhancement 3: Databases
     - Code Review
     - Narrative
 
